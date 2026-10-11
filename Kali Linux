@@ -1,0 +1,19 @@
+# kali-mini - IP Tracker CelcomDigi Edition
+Tool ringan auto-detect IP, tested 100% WORK di Long Lama, Sarawak.
+
+## Features
+- Support IPv4 (182.x) & IPv6 (2402::)
+- Fix JSON error ipapi.co
+- Google Maps link auto
+
+## Cara guna
+chmod +x kali.sh
+./kali.sh
+
+## Proof
+IP IPv6: 2402:1980:8930:ebc7::1 - Kuala Lumpur (DiGi Hub)
+IP IPv4: 182.62.161.187 - Petaling Jaya
+
+Semua Telco Malaysia routing via KL, bukan GPS.
+
+Made by aqifmuqri-lab | Long Lama, Baram
