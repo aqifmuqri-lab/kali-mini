@@ -1,2 +1,3 @@
-# KALI MINI v5.0 ULTRA - By aqifmuqri-lab
-Tools OSINT untuk Termux
+# kali-mini - IP Tracker
+Tool ni untuk check IP CelcomDigi
+100% WORK di Long Lama
